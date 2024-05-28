@@ -39,3 +39,7 @@ Este aplicativo foi desenvolvido por Enzo Matheus.
 Este projeto está licenciado sob a Licença MIT License. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ---
+![image](https://github.com/enzomath/App_Calculadora/assets/119835633/77e33b51-a5ca-4deb-b960-c19b5c2a4fd7)<br>
+![image](https://github.com/enzomath/App_Calculadora/assets/119835633/bf377bc9-4886-467d-9fa5-6ee71b58ac60)
+
+
